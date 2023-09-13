@@ -1,0 +1,81 @@
+1. What is the difference between == and === operators? 
+2. What is the purpose of double exclamation (!!)?
+3. What is typeof operator?
+4. What is the difference between null and undefined?
+5. What is isNaN?
+6. What is NaN property?
+7. How do you add a key value pair in javascript?
+8. What is a conditional operator in javascript?
+9. What are default parameters?
+10. Which value is not equal to itself in javascript?
+11. What are lambda or arrow functions? 
+12. What is a strict mode in javascript?
+13. How do you declare strict mode?
+14. Why do you need strict mode?
+15. What is undefined property?
+16. What is null value? 
+17. What would be the result of 1 + 2 + '3'?
+18. What are the function parameter rules?
+19. How do you empty an array?
+20. How do you create an infinite loop?
+21. What is JSON and its common operations?
+22. What is the purpose of the array slice method?
+23. What is the purpose of the array splice method?
+24. What is the difference between slice and splice?
+25. What is the purpose of the let keyword?
+26. What is the difference between let and var?
+27. What is the Temporal Dead Zone?
+28. What is Hoisting?
+29. What is scope in javascript?
+30. What is web storage?
+31. How do you access web storage?
+32. What are the methods available on session storage?
+33. Why do you need web storage?
+34. What are break and continue statements?
+35. What is the purpose of delete operator?
+36. What is the difference between window and document?
+37. Is JavaScript a case-sensitive language?
+38. Is there any relation between Java and JavaScript?
+39. Who created javascript?
+40. What is the use of preventDefault method?
+41. What are modules?
+42. What is the benefit of using modules
+43. What is the use of stopPropagation method?
+44. What is the use of setTimeout?
+45. What is the use of setInterval?
+46. How do you check whether a string contains a substring?
+47. How do you redirect new page in javascript?
+48. How do you check if a key exists in an object?
+49. How do you loop through javascript object?
+50. How do you make first letter of the string in an uppercase?
+51. How do you display the current date in javascript?
+52. How do you compare two date objects?
+53. How do you check if a string starts with another string?
+54. How do you trim a string in javascript?
+55. What are template literals?
+56. What are the benefits of keeping declarations at the top?
+57. How do you generate random integers?
+58. Can you write a random integers function to print integers with in a range?
+59. Can I use reserved words as identifiers?
+60. What is a conditional operator in javascript?
+61. What happens if you do not use rest parameter as a last argument?
+62. What is a spread operator?
+63. What are primitive data types?
+64. How do you sort elements in an array?
+65. How do you reversing an array?
+66. How do you find min and max value in an array?
+67. What is destructuring assignment?
+68. What is the purpose of some method in arrays?
+69. How do you combine two or more arrays?
+70. How do you trim a string at the beginning or ending?
+71. How do you get unique values of an array?
+72. How do you rounding numbers to certain decimals?
+73. What is the difference between isNaN and Number.isNaN?
+74. What is a callback function?
+75. What is the difference between Call, Apply and Bind?
+76. What are the common operations of JSON?
+77. What is the purpose of find method in arrays?
+78. What is the purpose of flat method in arrays?
+79. What is the purpose of map method in arrays?
+80. What is the purpose of reduce method in arrays?
+
